@@ -95,7 +95,11 @@
           <option value="">-- Pilih Jurusan --</option>
           <option value="PPLG">PPLG (Pengembangan Perangkat Lunak & Gim)</option>
           <option value="TJKT">TJKT (Teknik Jaringan Komputer & Telekomunikasi)</option>
+          <option value="TJKT">TJKT PLUS (Teknik Jaringan Komputer & Telekomunikasi)</option>
           <option value="DKV">DKV (Desain Komunikasi Visual)</option>
+          <option value="DKV">DKV PLUS (Desain Komunikasi Visual)</option>
+          <option value="MPLB">MPLB (Manajemen Perkantoran & Layanan Bisnis)</option>
+          <option value="MPLB">MPLB PLUS (Manajemen Perkantoran & Layanan Bisnis)</option>
           <option value="DKV">PM (Pemasaran)</option>
           <option value="DKV">PH (Perhotelan)</option>
         </select>
@@ -111,6 +115,13 @@
             Kirim Pendaftaran
         </button>
         </div>
+
+        <div class="text-center mt-4">
+  <a href="/" 
+     class="px-8 py-3 bg-white border-2 border-[#7CB518] text-[#7CB518] font-semibold rounded-full shadow hover:bg-[#7CB518] hover:text-white transition-all duration-300">
+     ← Kembali ke Beranda
+  </a>
+</div>
 
     </form>
   </div>
