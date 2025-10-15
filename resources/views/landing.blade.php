@@ -8,6 +8,7 @@
 <x-visi-misi />
 <x-bidang-studi />
 <x-jurusan />
+<x-cta-daftarHarga />
 <x-prestasi />
 <x-ekstrakurikuler />
 <x-kontak-info />
