@@ -35,6 +35,9 @@ Route::get('/ekstrakurikuler', function () {
 Route::get('/berita', function () {
     return view('berita');
 });
+Route::get('/berita/grand-opening', function () {return view('berita.grand-opening');});
+Route::get('/berita/ppdb-smksma', function () {return view('berita.ppdb-smksma');});
+Route::get('/berita/seminar', function () {return view('berita.seminar');});
 
 Route::get('/spmb', [PpdbController::class, 'index'])->name('spmb.index');
 Route::post('/ppdb/store', [PpdbController::class, 'store'])->name('ppdb.store');
