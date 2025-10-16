@@ -4,8 +4,8 @@
       <div class="mt-4 grid justify-start">
         <img src="/images/u-smk2.png" alt="Lapangan SMK" loading="lazy" decoding="async" class="w-64 h-64 object-cover rounded-2xl shadow" />
         <div class="bg-[#7CB518] rounded-xl px-10 py-7 flex flex-col items-center shadow mt-4" data-aos="zoom-in" data-aos-delay="200">
-          <span class="text-4xl md:text-5xl font-bold text-white leading-none">20</span>
-          <span class="text-white text-lg font-medium mt-1">Years Of Experience</span>
+          <span class="text-4xl md:text-5xl font-bold text-white leading-none">SMK</span>
+          <span class="text-white text-lg font-medium mt-1">Citra Negara</span>
         </div>
       </div>
       <div class="flex mt-4" data-aos="fade-left" data-aos-delay="250">
