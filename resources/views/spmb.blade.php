@@ -101,7 +101,6 @@
           <option value="MPLB">MPLB (Manajemen Perkantoran & Layanan Bisnis)</option>
           <option value="MPLB">MPLB PLUS (Manajemen Perkantoran & Layanan Bisnis)</option>
           <option value="DKV">PM (Pemasaran)</option>
-          <option value="DKV">PH (Perhotelan)</option>
         </select>
       </div>
 
