@@ -117,12 +117,11 @@
         </div>
 
         <div class="text-center mt-4">
-  <a href="/" 
-     class="px-8 py-3 bg-white border-2 border-[#7CB518] text-[#7CB518] font-semibold rounded-full shadow hover:bg-[#7CB518] hover:text-white transition-all duration-300">
-     ← Kembali ke Beranda
-  </a>
-</div>
-
+          <a href="/" 
+            class="px-8 py-3 bg-white border-2 border-[#7CB518] text-[#7CB518] font-semibold rounded-full shadow hover:bg-[#7CB518] hover:text-white transition-all duration-300">
+            ← Kembali ke Beranda
+          </a>
+        </div>
     </form>
   </div>
 
