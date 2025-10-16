@@ -1,4 +1,4 @@
-<section id="visi-misi" class="relative min-h-[600px] py-24 px-6 bg-gradient-to-b from-[#6BAE18] to-[#5C8F14] overflow-hidden scroll-mt-24" data-aos="fade-up" data-aos-duration="1000">
+<section id="visi misi" class="relative min-h-[600px] py-24 px-6 bg-gradient-to-b from-[#6BAE18] to-[#5C8F14] overflow-hidden scroll-mt-24" data-aos="fade-up" data-aos-duration="1000">
   <div class="absolute inset-0 opacity-20 bg-[url('/images/pattern-light.svg')] bg-repeat"></div>
   <div class="absolute top-0 left-0 w-80 h-80 bg-[#E9DC00]/20 rounded-full blur-3xl"></div>
   <div class="absolute bottom-0 right-0 w-96 h-96 bg-white/10 rounded-full blur-3xl"></div>

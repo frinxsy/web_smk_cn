@@ -26,6 +26,8 @@
         ['img' => '/images/berita1.png', 'title' => 'Prestasi di Ajang LKS Provinsi', 'date' => '2 Juni 2025', 'link' => '/berita/lks-provinsi'],
         ['img' => '/images/berita1.png', 'title' => 'Pelatihan Digital Marketing untuk Siswa', 'date' => '18 Mei 2025', 'link' => '/berita/pelatihan-marketing'],
         ['img' => '/images/berita1.png', 'title' => 'Raih Akreditasi A Tahun 2025', 'date' => '10 April 2025', 'link' => '/berita/akreditasi-a'],
+        ['img' => '/images/berita2.jpg', 'title' => 'PPDB SMK-SMA Citra Negara', 'date' => '1 September 2025', 'desc' => '', 'link' => '/berita/ppdb-smksma'],
+        ['img' => '/images/berita3.jpg', 'title' => 'Seminar', 'date' => '12 Agustus 2025', 'desc' => '', 'link' => '/berita/seminar'],
       ];
     @endphp
 

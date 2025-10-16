@@ -64,14 +64,6 @@
     </div>
   </div>
 
-  <!-- Tombol -->
-  <div class="text-center mt-14">
-    <a href="{{ url('/prestasi') }}" 
-      class="inline-flex items-center px-6 sm:px-8 py-3 bg-[#7CB518] text-white font-semibold text-sm sm:text-base rounded-full shadow-md hover:bg-[#6aa215] hover:shadow-lg transition-all duration-300">
-      Lihat Prestasi Lainnya <span class="ml-2">→</span>
-    </a>
-  </div>
-
   <!-- Scroll Animation -->
   <style>
     @keyframes scroll {
